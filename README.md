@@ -14,7 +14,7 @@
 
 ### 2 项目设计
 
-![uml](/Users/fang/Desktop/移动互联网报告/img/uml.jpg)
+![uml](img/uml.jpg)
 
 设计模型可访问：[http://116.62.46.96/](http://116.62.46.96)
 
@@ -22,7 +22,7 @@
 
 ### 3 项目效果
 
-![whole](/Users/fang/Desktop/移动互联网报告/img/whole.jpg)
+![whole](img/whole.jpg)
 
 因为空间有限，就不全部截图了，大概效果如上图。
 
@@ -131,11 +131,11 @@ $ docker run -d --restart always
 
 **后端：**
 
-![houduan](/Users/fang/Desktop/移动互联网报告/img/houduan.png)
+![houduan](img/houduan.png)
 
 **前端**
 
-![qianduan](/Users/fang/Desktop/移动互联网报告/img/qianduan.png)
+![qianduan](img/qianduan.png)
 
 应该要去掉一些，因为魔改了three.js等文件，可能这个也算在其中了
 
