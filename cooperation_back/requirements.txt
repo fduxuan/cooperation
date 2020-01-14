@@ -1,0 +1,9 @@
+python-dateutil
+aiohttp
+motor
+sanic
+pymongo
+aioredis
+sanic-auth
+requests
+

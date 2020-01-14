@@ -1,0 +1,75 @@
+{
+  "_from": "cordova-plugin-qqsdk",
+  "_id": "cordova-plugin-qqsdk@0.9.7",
+  "_inBundle": false,
+  "_integrity": "sha1-rDi8dICn4KHFxLbogH/xlUl5+bc=",
+  "_location": "/cordova-plugin-qqsdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-qqsdk",
+    "name": "cordova-plugin-qqsdk",
+    "escapedName": "cordova-plugin-qqsdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-qqsdk/download/cordova-plugin-qqsdk-0.9.7.tgz",
+  "_shasum": "ac38bc7480a7e0a1c5c4b6e8807ff1954979f9b7",
+  "_spec": "cordova-plugin-qqsdk",
+  "_where": "/Users/fang/Desktop/cooperation_front3",
+  "author": {
+    "name": "https://github.com/iVanPan"
+  },
+  "bugs": {
+    "url": "https://github.com/iVanPan/Cordova_QQ/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-qqsdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "codrova/phonegap wrapper for qq sdk",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    }
+  ],
+  "homepage": "https://github.com/iVanPan/Cordova_QQ",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "phonegap",
+    "plugin",
+    "qqsdk",
+    "qq",
+    "TIM",
+    "Tencent",
+    "login",
+    "share",
+    "favorites"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cordova-plugin-qqsdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iVanPan/Cordova_QQ.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.9.7"
+}
