@@ -1,6 +1,6 @@
 # Cornerstone——基于双人打卡的竞争学习系统
 
-复旦大学计算机科学与技术          16307130335             方煊杰
+FDU-COMPUTE-SCIENCE          16307130335             fduxuan
 
 
 
