@@ -89,7 +89,7 @@ $ docker run -d --restart always
 
     我中间有这样的返回：(重载了exception class，抛出指定异常)
 
-    ![error](/Users/fang/Desktop/移动互联网报告/img/error.png)
+    ![error](img/error.png)
 
     ```python
     def assure_user_login(handler):
