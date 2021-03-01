@@ -15,7 +15,7 @@
   "dependencies": {
     "cordova-android": "^8.1.0",
     "cordova-plugin-qqsdk": "^0.9.7",
-    "three": "^0.112.1",
+    "three": "^0.125.0",
     "three-css2drender": "^1.0.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbit-controls": "^82.1.0"
